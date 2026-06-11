@@ -1,1 +1,4 @@
-# fno-call-oi-scanner
+streamlit
+pandas
+requests
+nsepython
